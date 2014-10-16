@@ -5,6 +5,7 @@
 # File name: dicegame Date Due: 10-2-14.
 #
 # Program Description: A simple dice game.
+# A meaningless comment
 import random
 
 SA = 1
